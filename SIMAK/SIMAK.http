@@ -1,0 +1,6 @@
+@SIMAK_HostAddress = http://localhost:5043
+
+GET {{SIMAK_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
